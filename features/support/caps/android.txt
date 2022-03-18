@@ -1,0 +1,17 @@
+[caps]
+  platformName ="iOS"
+  platformVersion = "14.4"
+  deviceName = "iPhone 11"
+  automationName = "XCUITest"
+app = ""
+noReset = false
+locationServicesAuthorized = true
+locationServicesEnabled = true
+newCommandTimeout = 100000
+adbExecTimeout = 100000
+connectHardwareKeyboard = false
+autoAcceptAlerts = false
+autoDismissAlerts = true
+autoGrantPermissions = true
+sendKeyStrategy = "grouped"
+
